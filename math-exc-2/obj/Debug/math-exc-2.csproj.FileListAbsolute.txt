@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\math-exc-2\math-exc-2\bin\Debug\math-exc-2.exe.config
+C:\Users\User\source\repos\math-exc-2\math-exc-2\bin\Debug\math-exc-2.exe
+C:\Users\User\source\repos\math-exc-2\math-exc-2\bin\Debug\math-exc-2.pdb
+C:\Users\User\source\repos\math-exc-2\math-exc-2\obj\Debug\math-exc-2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\math-exc-2\math-exc-2\obj\Debug\math-exc-2.exe
+C:\Users\User\source\repos\math-exc-2\math-exc-2\obj\Debug\math-exc-2.pdb
